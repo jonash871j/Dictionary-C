@@ -23,6 +23,7 @@
     <ProjectGuid>{C9845B51-75F0-474E-A999-C91E362057EB}</ProjectGuid>
     <RootNamespace>DictC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Dictionary C</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
